@@ -1,7 +1,12 @@
 [
   {
-    "name": "",
-    "surname": "",
-
+    "login": "student",
+    "password": "2432612431322470496134705644635568674d35646d78477061696a2e39754b70786454395a7967302f474b422e6f5a674f37563336347370437247",
+    "message": "Your job is to retrieve the secret message for user 'black13'. Good luck!"
+  },
+  {
+    "login": "black13",
+    "password": "2432612431322434366543697148786256356d584c42674378424b34654533734272493736586e71547248505378354c534a563747714e5868484353",
+    "message": "The package will be delivered at 03:17 AM near the old lighthouse."
   }
 ]
